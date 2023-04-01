@@ -1,3 +1,3 @@
 # ML-project
-
-Apple Stock Price Prediction using LSTM layers. A beginner level Project producing visible results.
+## Stock price prediction model
+Apple Stock Price Predicted using LSTM layers. A beginner level Project producing visible results.
